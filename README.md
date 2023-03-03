@@ -12,7 +12,7 @@ I'm a self-taught passionate AI Engineer from China
 
 - ❤️ I love writing Python and C++
 
-- ❤️ I love Game development
+- ❤️ I love producing video games
 
 - 💬 Ask me about anything [here](https://github.com/laohuu/laohuu/issues)
 
