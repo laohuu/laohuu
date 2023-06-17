@@ -2,15 +2,15 @@
 
 <br />
 
-I'm a self-taught passionate AI Engineer from China
+I'm a self-taught passionate Game Developer from China
 
 **About me**
 
-- 💼 AI Engineer
+- 💼 Game Developer
 
-- 📈 Built deep_learning_implementations
+- 📈 Built Gaze Engine
 
-- ❤️ I love writing Python and C++
+- ❤️ I love writing C# and C++
 
 - ❤️ I love producing video games
 
